@@ -1,0 +1,40 @@
+* {
+    background-color: #d7df71;
+}
+
+#calculator {
+    border: 5px solid #081e3f;
+    background-color: #0e5f76;
+    width: 700px;
+    height: 900px;
+    display: flex;
+}
+
+#display {
+    background-color: #0e5f76;
+    border: 5px solid #081e3f;
+    margin: 25px;
+}
+
+#display > h2 {
+    background-color: #081e3f;
+    color: #d7df71; 
+}
+
+#functions {
+    background-color: #0e5f76;
+}
+
+#buttons {
+    background-color: #0e5f76;
+}
+
+#clr-cnt {
+    background-color: #0e5f76;
+}
+
+button {
+    background-color: #081e3f;
+    color: #d7df71;
+}
+
